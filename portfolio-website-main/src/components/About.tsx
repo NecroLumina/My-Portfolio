@@ -110,11 +110,11 @@ const About = () => {
 
             <div className="flex flex-wrap gap-4 pt-4">
               <div className="glass px-4 py-2 rounded-lg">
-                <span className="text-primary-glow font-medium"> 2 </span>
+                <span className="text-primary-glow font-medium">3</span>
                 <span className="text-muted-foreground ml-1">Years Experience</span>
               </div>
               <div className="glass px-4 py-2 rounded-lg">
-                <span className="text-secondary-glow font-medium">3+</span>
+                <span className="text-secondary-glow font-medium">4+</span>
                 <span className="text-muted-foreground ml-1">Projects Completed</span>
               </div>
               <div className="glass px-4 py-2 rounded-lg">
