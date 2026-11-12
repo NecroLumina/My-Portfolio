@@ -12,9 +12,9 @@ No package installation or build step is required. Open `index.html` in a browse
 
 ## Deploy
 
-The included GitHub Actions workflow at `.github/workflows/pages.yml` publishes the repository to GitHub Pages when changes are pushed to `main`. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions** if it is not already selected. The expected project-site URL is:
+The included GitHub Actions workflow at `.github/workflows/pages.yml` publishes the repository to GitHub Pages when changes are pushed to `main`. The site is live at:
 
-https://NecroLumina.github.io/My-Portfolio/
+https://necrolumina.github.io/My-Portfolio/
 
 ## Projects represented
 
