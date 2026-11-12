@@ -4,7 +4,7 @@ Personal portfolio of **Sk_Official_Zw (NecroLumina)**, a Zimbabwe-based softwar
 
 > Engineering ideas. Creating experiences. Building what’s next.
 
-The site is a responsive, static portfolio featuring selected software, game-development, and VR projects; a professional introduction; a skills overview; and GitHub contact links. Project write-ups use confirmed information, and FraudNetZW is identified as a private repository.
+The site is a responsive, static portfolio featuring selected software and game-development work; a professional introduction; a skills overview; and GitHub contact links. Project write-ups use confirmed information, and FraudNetZW is identified as a private repository.
 
 ## Run locally
 
@@ -20,9 +20,7 @@ https://necrolumina.github.io/My-Portfolio/
 
 - **FraudNetZW** — fraud-detection platform for Zimbabwean financial transactions; the source repository is private.
 - **Trababalas Run** — 3D endless runner inspired by Zimbabwe’s Trababalas interchange, developed during the Codico Software Solutions industrial attachment.
-- **ShiftEngage** — VR driving-school training experience designed to support practical driver education.
-
-Public source links and screenshots for Trababalas Run and ShiftEngage are not currently available. Their descriptions are based on the project information supplied by the author.
+The Trababalas Run source link and screenshots are not currently available. Its description is based on the project information supplied by the author.
 
 ## Contact
 
