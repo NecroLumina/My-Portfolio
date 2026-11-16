@@ -6,6 +6,8 @@ Portfolio of **Simbarashe A. Kanyama (Sk_Official_Zw)**, a Zimbabwe-based softwa
 
 **Live site:** [necrolumina.github.io/My-Portfolio](https://necrolumina.github.io/My-Portfolio/)
 
+**Curriculum vitae:** [Download Simbarashe A. Kanyama’s CV (PDF)](assets/Simbarashe-A-Kanyama-CV.pdf)
+
 ## About this site
 
 A responsive, static portfolio introducing my software engineering capabilities, academic FraudNetZW project, collaborative game-development experience at Codico Software Solutions, education and digital creativity. It is built with semantic HTML, modern CSS and lightweight vanilla JavaScript; there is no package installation or build step.
