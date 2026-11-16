@@ -1,27 +1,30 @@
-# Sk_Official_Zw — Portfolio
+# Sk_Official_Zw — Personal Portfolio
 
-Personal portfolio of **Sk_Official_Zw (NecroLumina)**, a Zimbabwe-based software engineer, game developer, and digital creator.
+Portfolio of **Simbarashe A. Kanyama (Sk_Official_Zw)**, a Zimbabwe-based software engineer, game developer and digital creator.
 
 > Engineering ideas. Creating experiences. Building what’s next.
 
-The site is a responsive, static portfolio featuring selected software and game-development work; a professional introduction; a skills overview; and GitHub contact links. Project write-ups use confirmed information, and FraudNetZW is identified as a private repository.
+**Live site:** [necrolumina.github.io/My-Portfolio](https://necrolumina.github.io/My-Portfolio/)
+
+## About this site
+
+A responsive, static portfolio introducing my software engineering capabilities, academic FraudNetZW project, collaborative game-development experience at Codico Software Solutions, education and digital creativity. It is built with semantic HTML, modern CSS and lightweight vanilla JavaScript; there is no package installation or build step.
+
+The FraudNetZW system map is a conceptual illustration, not an application screenshot. The Digital Creativity tiles are explicitly labelled placeholders until approved original campaign material is added. Game cover art is linked from the official itch.io pages; project descriptions credit the publisher/team and distinguish my collaborative involvement.
 
 ## Run locally
 
-No package installation or build step is required. Open `index.html` in a browser, or serve this directory with any static web server. The site uses semantic HTML, CSS, and a small vanilla JavaScript file. Google Fonts are an optional external enhancement; system font fallbacks are included.
+Open `index.html` in a browser or serve this directory using any static HTTP server. Google Fonts are an optional enhancement; local system fallbacks are provided.
 
 ## Deploy
 
-The included GitHub Actions workflow at `.github/workflows/pages.yml` publishes the repository to GitHub Pages when changes are pushed to `main`. The site is live at:
+The GitHub Actions workflow at `.github/workflows/pages.yml` publishes the repository root to GitHub Pages on pushes to `main`. GitHub Pages uses the repository’s **GitHub Actions** deployment source. The deployed address is the live site linked above.
 
-https://necrolumina.github.io/My-Portfolio/
+## Project sources
 
-## Projects represented
+- **FraudNetZW:** Academic hybrid fraud-detection project; its GitHub repository is currently private.
+- **Trababalas Run:** [Official itch.io page](https://codico-software-solutions.itch.io/trababalas-run), published by Codico Software Solutions.
+- **Sons of the Soil:** [Official itch.io page](https://codico-software-solutions.itch.io/sons-of-the-soil), credits Codico Software Solutions × Kufrashe Technologies.
+- **Professional profile:** [GitHub](https://github.com/NecroLumina) · [LinkedIn](https://www.linkedin.com/in/simbarashe-kanyama-556a26307/)
 
-- **FraudNetZW** — fraud-detection platform for Zimbabwean financial transactions; the source repository is private.
-- **Trababalas Run** — 3D endless runner inspired by Zimbabwe’s Trababalas interchange, developed during the Codico Software Solutions industrial attachment.
-The Trababalas Run source link and screenshots are not currently available. Its description is based on the project information supplied by the author.
-
-## Contact
-
-- GitHub profile: [NecroLumina](https://github.com/NecroLumina)
+Project media or campaign samples should only be added when authentic and approved for sharing.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://necrolumina.github.io/My-Portfolio/sitemap.xml
